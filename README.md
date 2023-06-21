@@ -65,7 +65,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | X [Protivity](https://roberthalf.wd1.myworkdayjobs.com/en-US/ProtivitiNA/job/PHOENIX/Phoenix-Technology-Consulting-Intern---2024_JR-248209-2?Location_Country=bc33aa3152ec42d4995f4791a106ed09&Location_Region_State_Province=c7b20b0d4bc04711a00900569e9afabd) | Phoenix, AZ | Technology Consulting Intern - 2024 Summer Internship (No Sponsorship) |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern |
 | X [Palantir Technologies](https://www.palantir.com/careers/students/path/) | New York, NY or Washington, DC | Palantir Path Intern (must be enrolled in a U.S. bachelor's program) |
-| [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
+| [L̶u̶m̶e̶n̶ T̶e̶c̶h̶n̶o̶l̶o̶g̶i̶e̶s̶](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) |
 | X Voloridge Investment Management | Jupiter, Florida | **🔒 Closed 🔒** <br/> Software Engineer Intern<br/> Trading Engineer Intern|
 | X Volvo | Hagerstown, MD | **🔒 Closed 🔒** Intern: Engineering, Embedded Software (Summer 2024) |
 | X [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)|
